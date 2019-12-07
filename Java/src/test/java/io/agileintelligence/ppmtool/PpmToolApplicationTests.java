@@ -1,13 +1,13 @@
-package io.agileinteligence.ppmtool;
+package io.agileintelligence.ppmtool;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PpmtoolApplicationTests {
+class PpmToolApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
